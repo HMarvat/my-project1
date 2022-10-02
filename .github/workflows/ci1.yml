@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: marvat/demo-app:latest
+          tags: marvat/demo-app:1.0
